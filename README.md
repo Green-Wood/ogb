@@ -63,8 +63,8 @@ You can also install OGB from source. This is recommended if you want to contrib
 ```bash
 git clone https://github.com/snap-stanford/ogb
 cd ogb
-pip install -e .
 conda env create -f env.yaml
+pip install -e .
 ```
 
 ## Package Usage
